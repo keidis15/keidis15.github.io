@@ -1,0 +1,32 @@
+body {
+    padding-top: 70px;
+  }
+.bg-color{
+    background-color:#bdd5ea;
+}
+
+.color-body{
+    background-color: #f8f9fa;
+}
+.color-titulos{
+    color: #ba7498;
+}
+.color-menta{
+    color:#6fa9bb;
+}
+.color-gris{
+    color: #d9d9d9;
+}
+.roboto{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.montserrat{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }

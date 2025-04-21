@@ -1,0 +1,42 @@
+body {
+  padding-top: 70px;
+}
+.bg-color{
+    background-color:#6fa9bb;
+}
+
+.color-body{
+    background-color: #f8f9fa;
+}
+.color-titulos{
+    color: #ba7498;
+}
+.color-menta{
+    color:#6fa9bb;
+}
+.hero-header{
+    background-image: url(/portafolio/assets/imgs/bg-hero2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.roboto{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.montserrat{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .borde-botton{
+    border-bottom: 1px solid #6fa9bb;
+  }
+  .borde-top{
+    border-top: 1px solid #6fa9bb;
+  }
