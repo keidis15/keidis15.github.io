@@ -15,7 +15,7 @@ body {
     color:#6fa9bb;
 }
 .hero-header{
-    background-image: url(/portafolio/assets/imgs/bg-hero2.jpg);
+    background-image: url(../imgs/bg-hero2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
