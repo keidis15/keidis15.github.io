@@ -33,3 +33,6 @@ body {
   section li:hover{
     color:#6fa9bb;
   }
+  .bg-pink{
+    background-color: #ba7498;
+  }
